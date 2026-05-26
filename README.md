@@ -26,14 +26,6 @@
 
 ###
 
-<h2 align="left">📂 Projects</h2>
-
-###
-
-<hr>
-
-###
-
 <p align="left"><i>✨ "As long as you continue to compare yourself to others, you will never be truly happy with your successes" ✨</i></p>
 
 ###

@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- 🎯 Role/Occupation: Student <br>- 📍 Location: Colognola ai Colli (VR), Italy<br>- 💡 Main Interests: F1, videogames, coding, volleyball</p>
+<p align="left">- Role/Occupation: Student <br>- Location: Colognola ai Colli (VR), Italy<br>- Main Interests: videogames, coding, volleyball, photography</p>
 
 ###
 
-<h2 align="left">🛠️ Skills</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="left">📚 Education</h2>
+<h2 align="left">Education</h2>
 
 ###
 
-<p align="left">- 🎓 3rd year Computer Science<br>- 🏫 ITIS Guglielmo Marconi</p>
+<p align="left">- 3rd year Computer Science<br>- ITIS Guglielmo Marconi</p>
 
 ###
 

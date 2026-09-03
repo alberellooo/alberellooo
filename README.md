@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 3rd year Computer Science<br>- ITIS Guglielmo Marconi</p>
+<p align="left">- 4th year Computer Science<br>- ITIS Guglielmo Marconi</p>
 
 ###
 

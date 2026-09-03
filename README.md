@@ -1,51 +1,30 @@
-<h1 align="left">👋 Hi, I'm Alberello, but you can call me Alby!</h1>
+# Hi, I'm Alberello, but you can call me Alby!
 
-###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<h2 align="left">About Me</h2>
+## About Me
 
-###
+- Occupation: student
+- Location: Colognola ai Colli (VR), Italy
+- Main Interests (other than coding): 🏐/📸/🚗/✏️
 
-<p align="left">- Role/Occupation: Student <br>- Location: Colognola ai Colli (VR), Italy<br>- Main Interests: videogames, coding, volleyball, photography</p>
+## Education
 
-###
+- 4th year Computer Science
+- ITIS Guglielmo Marconi (VR)
 
-<h2 align="left">Skills</h2>
+---
 
-###
+_✨ "As long as you continue to compare yourself to others, you will never be truly happy with your successes" ✨_
 
-<p align="left">- Coding in Python<br>- Good at playing Minecraft<br>- Can cook carbonara</p>
-
-###
-
-<h2 align="left">Education</h2>
-
-###
-
-<p align="left">- 4th year Computer Science<br>- ITIS Guglielmo Marconi</p>
-
-###
-
-<p align="left"><i>✨ "As long as you continue to compare yourself to others, you will never be truly happy with your successes" ✨</i></p>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/albalberoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/1020999281299181609" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Albalbero09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img height="192" src="https://i.pinimg.com/736x/0c/4d/2c/0c4d2cd5528e6c5f576a3d58e1d3f154.jpg"  />
 </div>
 
-###
+---
+
+[![Instagram](https://img.shields.io/badge/alb.alberoo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alb.alberoo) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Albalbero09) (I need money)
